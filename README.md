@@ -1,2 +1,3 @@
 # CSharp_Learning_Projects
-01_HelloWorld
+includes projects I have done in my C# learning process.
+01-HelloWorld Example
