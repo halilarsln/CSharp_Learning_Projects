@@ -7,3 +7,5 @@ includes projects I have done in my C# learning process.
 2 - Introduction_to_Data_Types
 
 3 - Byte Data Type
+
+4 - Short Data Type
