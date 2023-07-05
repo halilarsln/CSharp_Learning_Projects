@@ -10,7 +10,7 @@ namespace _04_Short_Data_Type
     {
         static void Main(string[] args)
         {
-            //short değişkeni -32768 ile 322767 arasında değer depolayabilmektedir.
+            //short değişkeni -32768 ile 32767 arasında değer depolayabilmektedir.
             
             short birinciDegisken = -50;
 
