@@ -11,3 +11,5 @@ includes projects I have done in my C# learning process.
 4 - Short Data Type
 
 5 - Int Data Type
+
+6 - Long Data Type
