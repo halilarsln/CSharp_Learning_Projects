@@ -38,5 +38,7 @@ includes projects I have done in my C# learning process.
 
 18 - Equal Operator
 
+19 - Not Equal Operator
+
 
 
