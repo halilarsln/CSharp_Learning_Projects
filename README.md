@@ -46,4 +46,6 @@ includes projects I have done in my C# learning process.
 
 22 - And Operator
 
+23 - Or Operator
+
 
