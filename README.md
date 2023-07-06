@@ -52,4 +52,6 @@ includes projects I have done in my C# learning process.
 
 25 - Additional Operators
 
+26 - Readline
+
 
