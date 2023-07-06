@@ -30,7 +30,8 @@ includes projects I have done in my C# learning process.
 
 14 - Multiplication and Division Operator
 
-15 - Modify Operator
+15 - Mode Retrieval Operator
+
 
 
 
