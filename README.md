@@ -48,4 +48,6 @@ includes projects I have done in my C# learning process.
 
 23 - Or Operator
 
+24 - Not Operator
+
 
