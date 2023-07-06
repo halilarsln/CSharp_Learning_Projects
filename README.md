@@ -13,3 +13,5 @@ includes projects I have done in my C# learning process.
 5 - Int Data Type
 
 6 - Long Data Type
+
+7 - Float Data Type
