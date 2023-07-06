@@ -20,7 +20,9 @@ includes projects I have done in my C# learning process.
 
  9 - Char Data Type
 
-10- String Data Type
+10 - String Data Type
+
+11 - Bool Data Type
 
 
 
