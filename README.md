@@ -42,6 +42,6 @@ includes projects I have done in my C# learning process.
 
 20 - Greater and Greater Equal Operators
 
-21 - Less than and Less than Equal Operators
+21 - Less than and Less  Equal Operators
 
 
