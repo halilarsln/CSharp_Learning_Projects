@@ -17,3 +17,5 @@ includes projects I have done in my C# learning process.
 7 - Float Data Type
 
 8 - Double Data Type
+
+9 - Char Data Type
