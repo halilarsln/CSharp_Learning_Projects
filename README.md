@@ -36,5 +36,7 @@ includes projects I have done in my C# learning process.
 
 17 - Assignment Operator
 
+18 - Equal Operator
+
 
 
