@@ -62,4 +62,6 @@ includes projects I have done in my C# learning process.
 
 30 - Mini ATM
 
+31 - Body Mass Index
+
 
