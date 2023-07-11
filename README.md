@@ -70,3 +70,5 @@ includes projects I have done in my C# learning process.
 
 34 - Nested for loop
 
+35 - While Loop
+
