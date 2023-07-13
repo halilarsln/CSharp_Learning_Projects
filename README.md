@@ -86,4 +86,6 @@ includes projects I have done in my C# learning process.
 
 42 - Array Identification
 
+43 - ForEach
+
 
